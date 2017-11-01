@@ -8,6 +8,7 @@ body {
 	font-size: 14px;
 	margin: 0;
 	padding: 0;
+	color:#464646;
 }
 
 .swiper-container {
@@ -36,4 +37,8 @@ body {
 
 .swiper-pagination-bullet-active{
 	background-color:#e65100;
+}
+
+.collection .collection-item {
+	background-color:#e0e0e0;
 }
