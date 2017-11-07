@@ -6,4 +6,5 @@ $(document).ready(function(){
 	cargar_contenido('#5_cfron','5_caract_front.html');
 	cargar_contenido('#6_dif','6_diferencias.html');
     cargar_contenido('#6_dif_cont','6_diferen_cont.html');
+    cargar_contenido('#7_enlace','7_enlace_interes.html');
 });
