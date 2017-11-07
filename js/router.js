@@ -5,4 +5,5 @@ $(document).ready(function(){
 	cargar_contenido('#4_cback','4_caract_back.html');
 	cargar_contenido('#5_cfron','5_caract_front.html');
 	cargar_contenido('#6_dif','6_diferencias.html');
+    cargar_contenido('#6_dif_cont','6_diferen_cont.html');
 });
